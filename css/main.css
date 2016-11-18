@@ -1,3 +1,14 @@
+body {
+    background-color: #34495E;
+}
+
+h1 {
+    color:#FFFFFF;
+}
+
+p {
+    color: #FFFFFF;
+}
 
 .button {
     background-color: #2296F3;
@@ -13,3 +24,4 @@
     moz-border-radius: 4px;
     -webkit-border-radius: 4px;
 }
+
